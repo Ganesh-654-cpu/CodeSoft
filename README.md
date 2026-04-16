@@ -11,7 +11,7 @@ As part of the internship, I have successfully completed tasks focused on buildi
 
 💻 **Tasks Completed:**
 • To-Do List Application
-• Password Generator
+• Basic Calculator
 • Rock-Paper-Scissors Game
 • Contact Book System
 
