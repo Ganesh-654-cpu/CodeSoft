@@ -13,7 +13,7 @@ As part of the internship, I have successfully completed tasks focused on buildi
 • To-Do List Application
 • Basic Calculator
 • Rock-Paper-Scissors Game
-• Contact Book System
+• Contact Book Systems
 
 Each task gave me hands-on experience and boosted my confidence in developing practical applications.
 
